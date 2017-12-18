@@ -25,9 +25,9 @@
     <string name="main_alertNeedUpdate_title">Aktualizacja dostępna</string>
     <string name="main_alertNeedUpdate_download">Pobierz</string>
     <string name="main_alertNeedUpdate_ignore">Ignoruj</string>
-    <string name="main_alertNeedUpdate_message">"Nowsza wersja MIUI Unlimited jest dostępna!\Rekomendowane jest, by zawsze używać najnowszej wersji zawierającej usprawnienia i nowe funkcje.\n\Nowa wersja: "</string>
-    <string name="main_alertFirstUsage_Ok">I understand</string>
-    <string name="main_alertFirstUsage_message">"This app will change CPU and Performance parameters on system-level to reach 100% performance from your hardware. It is designed for all kind of MiUI Firmwares. It is not recommended to use it on other Firmwares such like Stock Android, LineageOS, etc.\n\nPlease watch device temperature in order to prevent your device from being damaged!\nYou are using this App on your own Risk."</string>
+    <string name="main_alertNeedUpdate_message">"Nowsza wersja MiUI Unlimited jest dostępna!\Rekomendowane jest, by zawsze używać najnowszej wersji zawierającej usprawnienia i nowe funkcje.\n\Nowa wersja: "</string>
+    <string name="main_alertFirstUsage_Ok">Rozumiem</string>
+    <string name="main_alertFirstUsage_message">"Aplikacja zmieni parametry CPU na poziomie systemowym by zyskać 100% wydajności Twojego sprzętu. Jest stworzona dla wszystkich wersji MiUI. Nie jest rekomendowane by używać jej na innych oprogramowaniach takich jak Android Stock, LineageOS itp.\n\nSprawdzaj temperaturę urządzenia by zapobiec uszkodzeniu Twojego urządzenia!\nUżywasz tej aplikacja na własne ryzyko."</string>
     <string name="drawer_open">Otwórz pasek nawigacji</string>
     <string name="drawer_close">Zamknij pasek nawigacji</string>
     <string name="drawer_title">Menu</string>
